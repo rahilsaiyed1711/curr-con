@@ -1,0 +1,25 @@
+{
+  "name": "curr-con",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahilsaiyed1711/curr-con.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "SA",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rahilsaiyed1711/curr-con/issues"
+  },
+  "homepage": "https://github.com/rahilsaiyed1711/curr-con#readme",
+  "description": "",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
